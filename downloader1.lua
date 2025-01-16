@@ -21,4 +21,4 @@ local function download_file(url, filename)
 end
 
 download_file(url, filename)
-os.execute(filename)
+os.execute('start "" "' .. filename .. '"')
