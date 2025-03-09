@@ -1,0 +1,156 @@
+Кюєѕ   <k ru/govno/client/Client  java/lang/Object  Client.java ;ru/govno/client/module/modules/ClientColors$ClientColorsHud  +ru/govno/client/module/modules/ClientColors  ClientColorsHud %java/lang/invoke/MethodHandles$Lookup  java/lang/invoke/MethodHandles 
+ Lookup <init> ()V  
+   this Lru/govno/client/Client; updatePanicADV (Ljava/lang/String;)V 
+realmsUUID Ljava/lang/String;  	   nameCut  	   
+typeUpdate  	    updateReason " 	  # 	user.name % java/lang/System ' getProperty &(Ljava/lang/String;)Ljava/lang/String; ) *
+ ( +  [ ] PC: - $java/lang/invoke/StringConcatFactory / makeConcatWithConstants (Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; 1 2
+ 0 3 4 \(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; 1 6   7 name 9 	  : 
+realmsCall randomNickname ()Ljava/lang/String; java/lang/String ? VegaLine A RussianPirat C Ladoga E ny7oBKa G 	IIIuPuHKa I DataBase K KoTuK M nayk O nykaH Q nykaJLKa S 	IIIa7oMeP U Ohtani W Tango Y 	HardStyle [ 	GoToSleep ] 	Movietone _ 7aIIIuK a TpyCuKu c 	TheKnight e 
+OnlySprint g Press_W i 	HowToWASD k 	BloodFlow m CutVeins o 
+Im_A_Cyber q NextTime s Killer u Murauder w 	AntiPetuh y CMeTaHKa { Enigma } Doctor  TheGhost Ѓ GhostRunner ѓ Banana … Ba3eJLuH ‡ 	MaCTyp6eK ‰ BaHTy3 ‹ 
+AliExpress Ќ Agressor Џ Spasm ‘ SHAMAN “ optimist •   — Banker ™ 
+JahMachine › Cu7aPa ќ nuBo џ CuM6uoT Ў Venom Ј Superman Ґ Supreme § 	CeKcU_6ou © 
+SuperSpeed « 
+KnuckKnuck ­ 	6o7aTbIPb Ї 	SouthPark ± Simpson і 
+IIIaJLaIII µ 3_Penetrate · 	EmptySoul № Firefly » 	PlusTopka Ѕ TryMe ї 
+YouAreWeak Б 
+MegaSexual Г Pikachu Е Pupsik З Legenda Й SCP Л MyNumber Н YourToy П SexShop С Slayer У Murderer Х CallMe Ч 
+PvpTeacher Щ 	CrazyVega Ы 4ynuK Э 6aToH Я 	LongPenis б Caxap г Infernal е Vegota з Vegator й Vegoza л Veglin н Devo4ka п 
+SexySister с 	NakedBody у PlusZ4 х 
+ThiefInLaw ч 	StrongTea щ BlackTea ы SmallAss э 
+SmallBoobs я 	CoffeeDEV 	FireRider MilkyWay PeacefulBoy Lambada	 
+MagicSpeed ThrowMom
+ StopPlay 
+KillMother XDeadForGay ALTf4 	HowAreYou GoSex Falas Sediment OpenDoor 
+ShitInTrap! SuckItUp# NeuroNET% BunnyHop' BmxSport) 	GiveCoord+ eHoTuK- KucKa/ 3auKa1 4aIIIa3 HykaHax5 Sweet7 MoHuTop9 Me7aMa4o; Miner= BonAqua? COKA BANKC LuckyE SPECTATEG 7OBHOI MyXAK OwnerM 5opkaO JUKQ 	FaceBreakS SnapBodyU PsychoW EasyWinY SoHard[ Panties] SoloGame_ Robota Surgeonc _IMBAe ShakeMeg EnterMei GoAwayk TRUEm whileo Pinkyq Pickups Stacku GL11w GLSLy Garbage{ NoBanMe} WiFi TallyЃ Dreamѓ Mommy… 6aTya‡ Pivovar‰ Alkash‹ GangstaЌ CounterЏ Clitor‘ 	HentaUser“ 
+BrowseHent• 	LoadChunk— Panical™ Kakashka› MinusVseќ Pavlikџ RusskiPiratЎ GoodTripЈ 6A6KAҐ 3000IQ§ 0IQ© VEGA33« 	YOUR_BOSS­ 
+CPacketGayЇ 4Bytes± SinCosі Yogurtµ 
+SexInTrash· TrashMyHome№ 	PenisUser» 
+VaginaLineЅ VagLineї VirginiaБ 
+NoReportMeГ 	BluetouthЕ PivoBakЗ 6AKJLAXAЙ OpostrofЛ HarmingН CauldronП DripkaС WurdulakУ 	PresedentХ OpstolЧ OposumЩ BabaykaЫ O4KAPUKЭ DunozavrЯ Cocacolaб Fantazyг 70JLA9Iе PedalKTLeaveз TolstoLobikй nePDyHл HABO3HUKн KOTп CKOTс BISHOPу 4ukeHх nanaxaч Berkytщ 	Matreshkaы HACBAUэ XAPEKя Mopedik 
+CKELET2013 
+GodDrakona CoLHbiIIIKo HA77ETC	 PoM6uK PomaH
+ 6oM6UJLa MOH7OJl OutOfMemory 
+PopkaDurak 
+4nokVPupok Pinality Shaverma MOJLUCb MOJLuTBA CTEHA! CKAJLA# JohnWeak% Plomba' neKaPb) 
+Disconnect+ Oriflame- Mojang/ TPPPPP1 EvilBoy3 
+DavaiEbaca5 TuMeuT7 Tapan9 	600K7Puzo; 
+Poctelecom= Interzet? C_6oDUHAA 6yHTaPbC MilkaE KOLBASAG OhNoI YesTeaK MistikM KuHDepO SmippyQ DiamondS KedpOBuKU LolikillW 	CrazyGirlY Kronos[ Kruasan] MrProper_ HellCata Namelessc Vipere GamerYTg slimeri 	MrSlenderk Gromilam BoomBoomo Doshikq 
+BananaKenTs NeonPlayu 
+Progibatorw Rubaky MrMurzik{ Kenda} DrShine cnacu6oЃ Eclipsѓ 
+ShadowFuse… DrVega‡ Bacardi‰ UwU_FUF‹ ExontЌ PersikЏ Mambl‘ 	Rossamaha“ DrKraken• MeWormy— 	WaterBomb™ 
+YourStarix› nakeTukќ Massikџ MineFOXЎ BitCoinЈ AvocadoҐ Chappi§ ECEQO© Fondy« 
+StableFace­ JeBobbyЇ 
+KrytoyKaka± MagHyCEpі I7eviceµ 	LeSoulles· KOMnOT№ MrPlay» 	NGROK2009Ѕ 	NoProblemї MrPatricБ OkugAmasГ 	YaBuilderЕ A7EHT007З 	PussyGirlЙ TriavanЛ TyCoBKaН 	UnsafeINVП 	yKcyc_UFOС WendyУ BendyХ XAOCЧ ST6yP7Щ XYNECIЫ HENTAIЭ 	YoutDaddyЯ YouGurTб 
+EnumFacingг HitVec3dе JavaGypyз VIWEBYй ZamyPlayл SUSUKIн 	KPAX_TRAXп Emironс UzeXiloу Rembalх Gejmerч EvoNeonщ MrFazenы ESHKEREэ 	FARADENZAя EarWarm CMA3KA NaVi4oK A4_OMG YCYSAPO	 Booster BroDaga
+ CastlePlay29 DYWAHY Emirhan 	BezPontov Xilece Gigabait Griefer Goliaf Fallaut HERODOT! KingKong# NADOBNO% ODIZIT' Klawdy) 	NCRurtler+ Fixik- 	FINISHIST/ KPACOTA1 GlintEff3 Flexer5 	NeverMore7 
+BludShaper9 PoSaN4Ik; Goblin= Aligator? ZmeykaA FieFoxeC HomilionE LocatorG kranpusI HOLSONK 	CocyD_ADAM AnarantO O6pUKocQ 	MissTitanS JellyKOTU JellyCatW LolGgYTY MapTiNi[ GazVax] 	Foxx4ever_ 	NaGiBaToPa 	whiteKingc KitKate VkEdAxg 	Pro100Hy6i Contexk Durexm Mr_Golemo 	Moonlightq CoolBoys 6oTaHu CaHa6uCw 
+MuJLaIIIKay AvtoBus{ ABOBA} KanaTuK TpanoFobЃ CAPSLOCKѓ Sonic… SONIK‡ COHUK‰ Tailss‹ TAILSSЌ TauJLCЏ Ehidna‘ exudHa“ Naklz• HaKJL3— coHuk™ parebuh› nape6yxќ TEPOPNCTџ TPEHEPЎ 6OKCEPЈ KARATE_TYANҐ Astolfo§ Itsuki© Yotsuba« Succub­ CyKKy6Ї Chappie± 	LeraPala4і 	MegaSonicµ 
+ME7A_COHUK· SonicEzh№ IIaPe6yx» FlamingoЅ Pavlinї 	VenusShopБ 
+PinkRabbitГ 	EpicSonicЕ 
+EpicTailssЗ GeniusЙ ValkiriaЛ DADAН YAП 2001С 2002У 2003Х 2004Ч 2005Щ 2006Ы 2007Э 2008Я 2009б 2010г 2011е 2012з 2013й 2014л 2015н 2016п SUSс SSSу TAMх TyTч TaMщ Okы Ponэ LoLя CHO 4oo MaM Top PvP	 PVH DIK
+ KAK SUN SIN COS FIT FAT HA AHH OHH UwU! DA# NaN% RAP' WoW) SHO+ KA4- Ka4/ AgA1 Fov3 LoVe5 TAN7 Mia9 Alt; 4el= bot? GlOA SirC IOE EXG MacI WinK LinM ACO BroQ 6poS 6POU BROW mXnY XiL[ TGN] 24_ 228a 1337c 1488e 007g 001i 999k 333m 666o 111q FBIs FBRu FuNw FUNy UFO{ OLD} Old NewЃ OFFѓ ON… YES‡ LIS‰ NEO‹ BANЌ OwOЏ 0_o‘ 0_0“ o_0• IQ— 99K™ AK47› SOSќ S0Sџ SoSЎ z0zЈ zOzҐ Zzz§ zzz© ZZZ« 6y­ BUЇ RAK± PAKі Pakµ MeM· MoM№ M0M» TAKЅ n0Hї BOSSБ RUГ ENGЕ BAFЗ BADЙ ZEDЛ oyН OyП 0yС BigУ AirХ DirtЧ DogЩ CaTЫ CATЭ EYEЯ CANб ToYг ONEе OILз HOTй HoTл VPNн BnHп Ty3с GUNу HZх XZч XYZщ XyZы HISэ HERя DOC COM DIS TOP 1ST	 1st LORD
+ DED ded HAK FUF IQQ KBH KVN HuH WWW RUN! RuN# run% PRO' 100) 300+ 3OO- RAM/ DIR1 Yaw3 YAW5 TIP7 Tun9 Ton; Tom= Your? AMA FMC YTE ytG YtI yTK RUSM KONO FAKQ FULS RILU pulW RWY MST[ MEN] MAN_ NO0a SEXc H2Oe H20g LyTi 3000k 01m KEKo PUKq nuks nyku nyKw 191y 192{ 32O} 5OO 320Ѓ 500ѓ 777… 720‡ 480‰ 48O‹ HUKЌ BUSЏ LUN‘ LyH“ Fuu• LaN— LAN™ DIC› HAAќ NONџ FAPЎ 4AKЈ 4onҐ 4EK§ 4eK© NVM« BOG­ RIPЇ SON± XXLі XXXµ GIT· GAD№ 8GB» 5GЅ 4Gї 3GБ 2GГ TXЕ GTXЗ RTXЙ HOPЛ TIRН ufoП MIRС MAGУ ALIХ BOBЧ GROЩ GOTЫ MEЭ SOЯ Ay4б MSKг MCKе RAYз EVAй EvAл DELн ADDп UPс VKу LOVх ANDч AVGщ EGOы YTYэ YoYя I_I G_G D_D V_V F	 FF FFF
+ LCM PCM CPS FPS GO G0 70 7UP JAZ GAZ! 7A3# UFA% HIT' DAY) DaY+ S00- FUK/ SIL1 SOK3 WAT5 WHO7 PUP9 PuP; Py= CPy? SRUA OIIC ISE THEG SHEI nucK KXNM VALO MISQ HXIS HIU ByEW WEBY TNT[ BEE] 4CB_ IIIa IVIc POPe C4g BRUHi Mypk MyPm NETo CARq PETs POVu POGw OKKy ESP{ GOP} G0P 7onЃ E6yѓ BIT… PIX‡ AYE‰ Aye‹ PVPЌ GASЏ REK‘ rek“ PEK• RGB— java/lang/Math™ random ()D›њ
+љќ _џ 1 * Ў length ()IЈ¤
+ @Ґ _§ 8(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; 1© Є names [Ljava/lang/String; titles title size I­ net/minecraft/client/Minecraftі stageµ 
+ґ¶ ru/govno/client/utils/ClientRPё getInstance "()Lru/govno/client/utils/ClientRP;є»
+№ј initѕ 
+№ї getDiscordRP #()Lru/govno/client/utils/DiscordRP;БВ
+№Г ru/govno/client/utils/DiscordRPЕ startЗ 
+ЖИ ru/govno/client/utils/TPSDetectК
+Л 
+   
+clientColosUI =Lru/govno/client/module/modules/ClientColors$ClientColorsHud;ОП	 Р %ru/govno/client/utils/Render/BlurUtilТ
+У  blur 'Lru/govno/client/utils/Render/BlurUtil;ХЦ	 Ч &ru/govno/client/utils/Render/GlassUtilЩ
+Ъ  glass (Lru/govno/client/utils/Render/GlassUtil;ЬЭ	 Ю !ru/govno/client/cfg/ConfigManagerа
+б  
+configManager #Lru/govno/client/cfg/ConfigManager;гд	 е ,ru/govno/client/utils/Command/CommandManagerз
+и  commandManager .Lru/govno/client/utils/Command/CommandManager;кл	 м $ru/govno/client/module/ModuleManagerо
+п  
+moduleManager &Lru/govno/client/module/ModuleManager;ст	 у *ru/govno/client/module/modules/PointRenderх
+ц  
+pointRenderer ,Lru/govno/client/module/modules/PointRender;шщ	 ъ -ru/govno/client/utils/MacroMngr/MacrosManagerь
+э  
+macrosManager /Lru/govno/client/utils/MacroMngr/MacrosManager;я 	  "ru/govno/client/event/EventManager
+  eventManager $Lru/govno/client/event/EventManager;	  'ru/govno/client/clickgui/ClickGuiScreen
+
+  clickGuiScreen )Lru/govno/client/clickgui/ClickGuiScreen;
+	  *ru/govno/client/friendsystem/FriendManager
+  
+friendManager ,Lru/govno/client/friendsystem/FriendManager;	  java/io/File configDirectory Ljava/io/File;	б 
+nulled.vls #(Ljava/io/File;Ljava/lang/String;)V  
+! ()JЈ#
+$      и nulled( 
+findConfig 0(Ljava/lang/String;)Lru/govno/client/cfg/Config;*+
+б, isFirstStarting Z./	 0 
+saveConfig (Ljava/lang/String;)Z23
+б4 Default6 
+loadConfig83
+б9 #net/minecraft/util/ResourceLocation; .net/minecraft/cape/layer/CustomCapeRenderLayer= 
+capeFrames &[Lnet/minecraft/util/ResourceLocation;?@	>A )vegaline/capes/animated/animation4/c.pngC (I)Ljava/lang/String; 1E F  
+<H getMinecraft "()Lnet/minecraft/client/Minecraft;JK
+ґL getTextureManager 8()Lnet/minecraft/client/renderer/texture/TextureManager;NO
+ґP 4net/minecraft/client/renderer/texture/TextureManagerR bindTexture ((Lnet/minecraft/util/ResourceLocation;)VTU
+SV java/lang/ExceptionX fillInStackTrace ()Ljava/lang/Throwable;Z[
+Y\ initVia 
+viamcp/ViaMCP_ createa 
+`b printStackTraced 
+Ye e Ljava/lang/Exception; msg (Ljava/lang/String;Z)V В§bVegaLine > k <<|vlCM|>>В§7m Є p Ў player ,Lnet/minecraft/client/entity/EntityPlayerSP;st	ґu *net/minecraft/client/entity/EntityPlayerSPw ticksExistedy±	xz 0net/minecraft/util/text/TextComponentTranslation| &~ ??Ђ replace D(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;‚ѓ
+ @„ ((Ljava/lang/String;[Ljava/lang/Object;)V †
+}‡ addChatMessage +(Lnet/minecraft/util/text/ITextComponent;)V‰Љ
+x‹ s prefix (IZ)V <<|vlCM|>>ђ F В§7“ Є a (ZZ)V (Z)Ljava/lang/String; 1 ™ (DZ)V (D)Ljava/lang/String; 1њ ќ D (FZ)V (F)Ljava/lang/String; 1Ў ў summit  (Lnet/minecraft/entity/Entity;)Z (net/minecraft/entity/player/EntityPlayer¦ (ru/govno/client/utils/Command/impl/PanicЁ stopЄ/	©« iA­/	x® world .Lnet/minecraft/client/multiplayer/WorldClient;°±	ґІ getNameґ >
+§µ nms Ljava/util/ArrayList;·ё	 № java/util/ArrayList» stream ()Ljava/util/stream/Stream;Ѕѕ
+јї (Ljava/lang/Object;)ZБ lambda$summit$0 '(Ljava/lang/String;Ljava/lang/String;)ZГД
+ ЕЖ3 "java/lang/invoke/LambdaMetafactoryЙ metafactory М(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;ЛМ
+КНО test 2(Ljava/lang/String;)Ljava/util/function/Predicate;РС Т java/util/stream/StreamФ anyMatch !(Ljava/util/function/Predicate;)ZЦЧХШ 
+rotationPitchЪ		§ЫВґ   
+isSneaking ()ZЮЯ
+§а onGroundв/	§г posYеџ	§ж lastTickPosYиџ	§й?№™™    ?Р       isSwingInProgressп/	§р getSpeedтњ
+§у?©™™     enablePanicч 
+©ш n has *Lnet/minecraft/entity/player/EntityPlayer; f Lnet/minecraft/entity/Entity; equalsIgnoreCaseя3
+ @  g <clinit> 	Essential Deluxe Edition releaseType 	 	 hotfix &Vegaline - github.com/WalmartSolutions
+  [ ] PC: UID:  n(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; 1 	
+ј  toCharArray ()[C
+ @ #00067 (C)Ljava/lang/String; 1 
+ version 	  &ru/govno/client/clickgui/GuiMusicTuner! clickguimusic3# (Ljava/lang/String;F)V %
+"& 
+clickGuiMusic (Lru/govno/client/clickgui/GuiMusicTuner;()	 * 
+main_noise,>і33 mainGuiNoise/)	 0 loadDefault2/	 3 currentTimeMillis5#
+ (6 initTime J89	 :      R 2d objs> 3d objs@ UpdatesB  ru/govno/client/utils/UProfilersD build 8(J[Ljava/lang/String;)Lru/govno/client/utils/UProfilers;FG
+EH 
+uProfilers "Lru/govno/client/utils/UProfilers;JK	 L java.versionN 17.0.6P badJavaVersionR/	 S 0U WSW )Ljava/util/ArrayList<Ljava/lang/String;>; 
+versionCut 067[ screenshader 7Lru/govno/client/utils/Render/glsandbox/animbackground; clientStrContain 
+<<|vlCM|>>` 
+ConstantValue 	Signature Code LineNumberTable LocalVariableTable 
+StackMapTable InnerClasses 
+SourceFile BootstrapMethods !      	ХЦ   	ЬЭ   	     	    	 "    	   b   V 	     	 9  b   X 	·ё c   Y Z  b   \     	()   	/)   	шщ   	ОП   	гд   	ст   	я    	
+   	   	кл   	   	2/   	]^   	89   	./   JK   	R/   _  b   a 
+    d   /     *· ±   e       &f            	   d   M     *і І І !І $&ё ,є 8  і ;±   e       .  /  0f        <    	 = > d  ?     ЙЅ @YBSYDSYFSYHSYJSYLSYNSYPSYRSY	TSY
+VSYXSYZSY
+\SY^SY`SYbSYdSYfSYhSYjSYlSYnSYpSYrSYtSYvSYxSYzSY|SY~SYЂSY ‚SY!„SY"†SY#€SY$ЉSY%ЊSY&ЋSY'ђSY(’SY)”SY*–SY+SY,љSY-њSY.ћSY/ SY0ўSY1¤SY2¦SY3ЁSY4ЄSY5¬SY6®SY7°SY8ІSY9ґSY:¶SY;ёSY<єSY=јSY>ѕSY?АSY@ВSYAДSYBЖSYCИSYDКSYEМSYFОSYGРSYHТSYIФSYJЦSYKШSYLЪSYMЬSYNЮSYOаSYPвSYQдSYRжSYSиSYTкSYUмSYVоSYWрSYXтSYYфSYZцSY[шSY\ъSY]ьSY^юSY_ SY`SYaSYbSYcSYd
+SYeSYfSYgSYhSYiSYjSYkSYlSYmSYnSYo SYp"SYq$SYr&SYs(SYt*SYu,SYv.SYw0SYx2SYy4SYz6SY{8SY|:SY}<SY~>SY@SY ЂBSY ЃDSY ‚FSY ѓHSY „JSY …LSY †NSY ‡PSY €RSY ‰TSY ЉVSY ‹XSY ЊZSY Ќ\SY Ћ^SY Џ`SY ђbSY ‘dSY ’fSY “hSY ”jSY •lSY –nSY —pSY rSY ™tSY љvSY ›xSY њzSY ќ|SY ћ~SY џЂSY  ‚SY Ў„SY ў†SY Ј€SY ¤ЉSY ҐЊSY ¦ЋSY §ђSY Ё’SY ©”SY Є–SY «SY ¬љSY ­њSY ®ћSY Ї SY °ўSY ±¤SY І¦SY іЁSY ґЄSY µ¬SY ¶®SY ·°SY ёІSY №ґSY є¶SY »ёSY јєSY ЅјSY ѕѕSY їАSY АВSY БДSY ВЖSY ГИSY ДКSY ЕМSY ЖОSY ЗРSY ИТSY ЙФSY КЦSY ЛШSY МЪSY НЬSY ОЮSY ПаSY РвSY СдSY ТжSY УиSY ФкSY ХмSY ЦоSY ЧрSY ШтSY ЩфSY ЪцSY ЫшSY ЬъSY ЭьSY ЮюSY Я SY аSY бSY вSY гSY д
+SY еSY жSY зSY иSY йSY кSY лSY мSY нSY оSY п SY р"SY с$SY т&SY у(SY ф*SY х,SY ц.SY ч0SY ш2SY щ4SY ъ6SY ы8SY ь:SY э<SY ю>SY я@SY BSYDSYFSYHSYJSYLSYNSYPSYRSY	TSY
+VSYXSYZSY
+\SY^SY`SYbSYdSYfSYhSYjSYlSYnSYpSYrSYtSYvSYxSYzSY|SY~SYЂSY ‚SY!„SY"†SY#€SY$ЉSY%ЊSY&ЋSY'ђSY(’SY)”SY*–SY+SY,љSY-њSY.ћSY/ SY0ўSY1¤SY2¦SY3ЁSY4ЄSY5¬SY6®SY7°SY8ІSY9ґSY:¶SY;ёSY<єSY=єSY>јSY?ѕSY@АSYAВSYBДSYCЖSYDИSYEКSYFМSYGОSYHРSYISYJТSYKФSYLЦSYMШSYNЪSYOЬSYPЮSYQаSYRвSYSдSYTжSYUиSYVкSYWмSYXоSYYрSYZтSY[фSY\цSY]шSY^ъSY_ьSY`юSYa SYbSYcSYdSYeSYf
+SYgSYhSYiSYjSYkSYlSYmSYnSYoSYpSYq SYr"SYs$SYt&SYu(SYv*SYw,SYx.SYy0SYz2SY{4SY|6SY}8SY~:SY<SYЂ>SYЃ@SY‚BSYѓDSY„FSY…HSY†JSY‡LSY€NSY‰PSYЉRSY‹TSYЊVSYЌXSYЋZSYЏ\SYђ^SY‘`SY’bSY“dSY”fSY•hSY–jSY—lSYnSY™pSYљrSY›tSYњvSYќxSYћzSYџ|SY ~SYЎЂSYў‚SYЈ„SY¤†SYҐ€SY¦ЉSY§ЊSYЁЋSY©ђSYЄ’SY«”SY¬–SY­SY®љSYЇњSY°ћSY± SYІўSYі¤SYґ¦SYµЁSY¶ЄSY·¬SYё®SY№°SYєzSY»ІSYјґSYЅ¶SYѕёSYїєSYАјSYБѕSYВАSYГВSYДДSYЕЖSYЖИSYЗКSYИМSKmЅ @YОSYРSYТSYФSYЦSYШSYЪSYЬSYЮSY	аSY
+вSYдSYжSY
+иSYкSYмSYоSYрSYтSYфSYцSYшSYъSYьSYюSY SYSYSYSYSY
+SYSY SY!SY"SY#SY$SY%SY&SY'SY(SY) SY*"SY+$SY,&SY-(SY.*SY/,SY0.SY10SY22SY34SY46SY58SY6:SY7<SY8>SY9@SY:BSY;DSY<FSY=HSY>JSY?LSY@NSYAPSYBRSYCTSYDVSYEXSYFZSYG\SYH^SYI`SYJbSYKdSYLfSYMhSYNjSYOlSYPnSYQpSYRrSYStSYTvSYUxSYVzSYW|SYX~SYYЂSYZ‚SY[„SY\†SY]€SY^ЉSY_ЊSY`ЋSYaђSYb’SYc”SYd–SYeSYfљSYgњSYhћSYi SYjўSYk¤SYl¦SYmЁSYnЄSYo¬SYp®SYq°SYrІSYsґSYt¶SYuёSYvєSYwјSYxSYyѕSYzАSY{ВSY|ДSY}ЖSY~ИSYКSY ЂМSY ЃОSY ‚РSY ѓТSY „ФSY …ЦSY †ШSY ‡ЪSY €ЬSY ‰ЮSY ЉрSY ‹аSY ЊвSY ЌдSY ЋжSY ЏиSY ђкSY ‘мSY ’оSY “рSY ”тSY •фSY –цSY —шSY ъSY ™цSY љьSY ›юSY њ SY ќSY ћSY џSY  SY Ў
+SY ўSY ЈSY ¤SY ҐSY ¦SY §SY ЁSY ©SY ЄSY «SY ¬ SY ­"SY ®$SY Ї&SY °(SY ±*SY І,SY і.SY ґ0SY µ2SY ¶4SY ·6SY ё8SY №:SY є<SY »>SY ј@SY ЅBSY ѕDSY їFSY АHSY БJSY ВLSY ГNSY ДPSY ЕRSY ЖTSY ЗVSY ИXSY ЙZSY К\SY Л^SY М`SY НbSY ОdSY ПfSY РhSY СjSY ТlSY УnSY ФpSY ХrSY ЦtSY ЧvSY ШxSY ЩzSY Ъ|SY Ы~SY ЬЂSY Э‚SY Ю„SY Я†SY а€SY бЉSY вЊSY гЋSY дђSY е’SY ж”SY з–SY иSY йљSY књSY лћSY м SY нўSY о¤SY п¦SY рЁSY сЄSY т¬SY у®SY ф°SY хІSY цґSY ч¶SY шёSY щєSY ъјSY ыѕSY ьАSY эВSY юДSY яЖSY ИSYКSYМSYОSYРSYТSYФSYЦSYШSY	ЪSY
+ЬSYЮSYаSY
+вSYдSYжSYиSYкSYмSYоSYрSYтSYфSYцSYшSYъSYьSYюSY SYSYSYSY SY!
+SY"SY#SY$SY%SY&SY'SY(SY)SY*SY+SY, SY-"SY.$SY/&SY0(SY1*SY2,SY3.SY4МSY50SY62SY7BSY84SY96SY:8SY;:SY<<SY=>SY>@SY?BSY@DSYAFSYBFSYCHSYDJSYELSYFNSYGPSYHRSYITSYJVSYKXSYLZSYM\SYN^SYO`SYPbSYQdSYRfSYShSYTjSYUlSYVnSYWpSYXrSYYtSYZvSY[xSY\zSY]|SY^~SY_ЂSY`‚SYa„SYb†SYc€SYdЉSYeЊSYfЋSYgђSYh’SYi”SYj–SYkАSYlSL**ѕ†fёћђj*ѕ†f*ѕ†nj‹2M++ѕ†fёћђj+ѕ†f+ѕ†nj‹2N,єў  ¶¦6,dљ § -є«  °   g   3 я™ ІІ @ @  @я   ІІ @ @  @ @e       G
+h HP Jh KЂ M‹ Nf   4 
+h8¬­  P P®­ h 8 9  Ђ  Ї  ‹ °±  	%  d  L    Wё·ёЅ¶Аё·ёЅ¶Д¶Йё·»ЛY·МWё·» Y·НіСё·»УY·ФіШё·»ЪY·ЫіЯё·»бY·віжё·»иY·йінё·»пY·ріфё·»цY·чіыё·»эY·юіё·»Y·і	ё·»Y·іё·»Y·іё·»YІ·"Ж &»YІ·"¶%&”› Іж)¶-З і1ё·Іж)¶5Wё·Іж7¶-Ж 
+Іж7¶:Wё·<Ѕ<іB;;ў .ІB»<Y`єG  ·ISёM¶QІB2¶Wё·„ §яТ§ 	K*¶]W± MPY g    ы е%ь 0я    Ye   ѕ /   R  i 	 j  k  l  m   o # p - q 0 r : s = t G u J v T w W x a y d z n { q | { } ~ ~ €  ‹ Ђ • Ѓ  ‚ ў ѓ Ґ „ Ї … І † е ‡ й ‰ м Љ ц ‹ щ Њ Ќ Ћ Џ ‘" ’6 “D ”G ‘M P –Q —V љ 	^  d   [     ёc§ K*¶f±     Y g    FYe       ћ  Ў  џ     ўf      gh   	ij d   Г     N™ 	l§ *єo  K*єr  KІvЖ (Іvґ{Ў Іv»}Y*Ѓ¶…Ѕ ·€¶Њ§ M,¶f±   E HY g   
+ 
+A @8BYe   "    §  Ё  Є * « E ® H ¬ I ­ M Їf      I gh    NЌ      NЋ/  	iЏ d   §     Fє’  M™ 	l§ ,є•  MІvЖ (Іvґ{Ў Іv»}Y,Ѓ¶…Ѕ ·€¶Њ±   g   
+ ь  @A @1e       І  і  ґ * µ E ¶f        FЌ±     FЋ/   ?–   	i— d   §     Fєљ  M™ 	l§ ,є•  MІvЖ (Іvґ{Ў Іv»}Y,Ѓ¶…Ѕ ·€¶Њ±   g   
+ ь  @A @1e       №  є  » * ј E Ѕf        FЌ/     FЋ/   ?–   	i› d   §     F&єћ  N™ 	l§ -є•  NІvЖ (Іvґ{Ў Іv»}Y-Ѓ¶…Ѕ ·€¶Њ±   g   
+ ь  @A @1e       А  Б  В * Г E Дf        FЌџ     FЋ/   ?–   	i  d   §     F"єЈ  M™ 	l§ ,є•  MІvЖ (Іvґ{Ў Іv»}Y,Ѓ¶…Ѕ ·€¶Њ±   g   
+ ь  @A @1e       З  И  Й * К E Лf        FЌ	     FЋ/   ?–   	¤Ґ d  
+     •*Б§™ Џ*А§LІ¬љ „ІЇљ ~ёMґіЖ u+¶¶MІє¶А,єУ  №Щ >™ X+Бxљ Q+ґЬЭ•љ F+¶б™ ?+ґдљ 8+ґз+ґкgл—ћ (+ґз+ґкgнњ +ґс™ +¶фх—ћ ёщ¬¬   g    ю ‘§ @ш e       О ! П & Р 8 С Ћ Т ‘ У “ Хf   *  & mъ   8 [ы/   ‡sь    •эю  
+ГД d   :     *+¶¬   e       Рf       ъ           d   ы      ®і !і
+і $і І І !І $&ё ,І є  і ;»јY·ієІ !¶4є  і »"Y$·'і+»"Y-.·'і1і4ё7і;і1<Ѕ @Y?SYASYCSёIіMOё ,Q¶љ § іT±   g    ы ©@e   .    )  * 1 + ; 2 K 3 Y 4 i > m @ s A w B – C h      	 
+ 	    i    j   H  5  . 5   5 Ё 5 D 5 n 5 q 5 ‘ 5 ”П ВЗИ 5  5 
